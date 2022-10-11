@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    Color: Darkblue;
+    border: 3px dashed white;
+    background-color: yellow;
+
+
+
+}
+
+body {
+    background-color: gray;
+}
+
+img {
+    height: 222px;
+    border: 3px dashed darkblue;
+    
+
+
+}
+
+title {
+    text-align: center;
+    color: blue;
+}
